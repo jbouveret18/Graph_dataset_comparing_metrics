@@ -1,0 +1,13 @@
+{
+"CommonCentersTime": 2632,
+"GraphEditDifferenceTime": 161118,
+"OverlappingNeighborhoodTime": 98852,
+"JaccardSimilarityTime": 227301,
+"AggregateResemblanceScore": 7.04167,
+"CommonCenters": 10.0517,
+"GraphEditDifference": 30.0212,
+"OverlappingNeighborhood": 0.000105985,
+"JaccardSimilarity": 0.0362177,
+"CosineSimilarityTime": 1.58726e+06,
+"CosineSimilarity": 0.0712822
+}
